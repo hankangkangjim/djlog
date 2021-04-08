@@ -1,0 +1,7 @@
+che__/
+*.py[cod]
+
+*.env
+.idea/
+*.log
+.vscode/
